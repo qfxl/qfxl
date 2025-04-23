@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @qfxl
 - 👀 I’m interested in Android,Java,Web
-- 🌱 I’m currently learning Compose,Rust,Harmony
-- 💞️ I’m looking to collaborate on netease
+- 🌱 I’m currently learning Java,Rust
+- 💞️ I’m looking to work in japan
 - 📫 reach me xuyonghong0822@gmail.com
 
 <!---
